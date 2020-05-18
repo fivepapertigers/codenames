@@ -1,0 +1,31 @@
+{
+  "name": "codenames",
+  "version": "1.0.0",
+  "description": "",
+  "main": "codenames.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.0",
+    "@babel/preset-react": "^7.9.4",
+    "@fortawesome/fontawesome-free": "^5.13.0",
+    "bootstrap": "^4.4.1",
+    "cssnano": "^4.1.10",
+    "parcel-bundler": "^1.12.4",
+    "prettier": "^2.0.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "serverless": "^1.68.0"
+  },
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "lodash.sortby": "^4.7.0",
+    "popper.js": "^1.16.1",
+    "reconnecting-websocket": "^4.4.0"
+  }
+}
