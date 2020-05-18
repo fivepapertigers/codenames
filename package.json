@@ -23,7 +23,7 @@
     "serverless": "^1.68.0"
   },
   "dependencies": {
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "lodash.sortby": "^4.7.0",
     "popper.js": "^1.16.1",
     "reconnecting-websocket": "^4.4.0"
