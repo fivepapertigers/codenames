@@ -20,7 +20,7 @@
     "prettier": "^2.0.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "serverless": "^1.68.0"
+    "serverless": "^3.25.1"
   },
   "dependencies": {
     "jquery": "^3.4.1",
